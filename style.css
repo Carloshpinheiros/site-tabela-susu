@@ -1,0 +1,42 @@
+table{
+    width: 100%;
+    height: 98vh;
+    background-color: white;
+    border-collapse: collapse;
+}
+tr{
+    height: 100px;
+}
+td{
+    width: 23%;
+}
+#cabeca{
+    background-color:aqua;
+    height: 10%;
+}
+.center{
+text-align: center;
+}
+.right{
+    text-align: right;
+}
+.left{
+    text-align: left;
+}
+.shirk{
+    width: 12%;
+}
+#tec{
+    font-size: 3em;
+}
+#hadware{
+    font-size: 3em;
+    color:rgb(16, 32, 102);
+}
+.compact{
+    height: 6%;
+}
+#des{
+    color: rgb(80, 48, 10);
+    font-size: 0.8em;
+}
